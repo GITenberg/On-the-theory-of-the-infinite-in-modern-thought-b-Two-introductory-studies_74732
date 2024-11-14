@@ -1,0 +1,35 @@
+_repo: On-the-theory-of-the-infinite-in-modern-thought-b-Two-introductory-studies_74732
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jourdain, Eleanor F. (Eleanor Frances)
+    aliases:
+    - Jourdain, E. F. (Eleanor Frances)
+    - Lamont, Frances
+    - Jourdain, Eleanor Frances
+    birthdate: 1863
+    deathdate: 1924
+    gutenberg_agent_id: '53065'
+    url: http://www.gutenberg.org/2009/agents/53065
+    wikipedia: https://en.wikipedia.org/wiki/Eleanor_Jourdain
+description: ''
+gutenberg_issued: '2024-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74732'
+language: en
+pgterms:marc904: https://archive.org/details/ontheoryofinfini00jourrich
+pgterms:marc905: 20230402071723jourdain
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+production_note: Carol Brown, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bLongmans, Green, and co., $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'On the theory of the infinite in modern thought : $b Two introductory studies'
+url: http://www.gutenberg.org/ebooks/74732
